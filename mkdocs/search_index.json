@@ -1,0 +1,114 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Arnon Moscona\n\n\nSan Carlos, CA\n650-996-5745\n\n\narnon@moscona.com\nhttp://linkedin.com/in/arnonmoscona\n\n\n\n\nSummary\n\n\nEmployment History\n\n\nEducation", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/#arnon-moscona", 
+            "text": "San Carlos, CA\n650-996-5745  arnon@moscona.com\nhttp://linkedin.com/in/arnonmoscona   Summary  Employment History  Education", 
+            "title": "Arnon Moscona"
+        }, 
+        {
+            "location": "/summary/", 
+            "text": "Summary\n\n\nExtensive hands-on software engineering experience, roles from leading individual contributor through senior management. Focus on rapid delivery in high growth, high scale, mission critical environments. Effective technology decision maker with high awareness and understanding of the business and its needs. Data driven and results oriented.\n\n\n\n\nTrack record of significant revenue impact\n\n\nArchitecture, design, development\n\n\nDistributed systems, multi data center\n\n\nReal time, low latency streaming data processing\n\n\nQuantitative work, both individually and at scale (stats, inference, ML)\n\n\nScale, performance, availability\n\n\nIn-memory computing\n\n\nFrequent full ownership, team \n tech leadership\n\n\nCritical thinker, constant learner\n\n\nClear, no-nonsense communicator\n\n\nPassion for quality", 
+            "title": "Summary"
+        }, 
+        {
+            "location": "/summary/#summary", 
+            "text": "Extensive hands-on software engineering experience, roles from leading individual contributor through senior management. Focus on rapid delivery in high growth, high scale, mission critical environments. Effective technology decision maker with high awareness and understanding of the business and its needs. Data driven and results oriented.   Track record of significant revenue impact  Architecture, design, development  Distributed systems, multi data center  Real time, low latency streaming data processing  Quantitative work, both individually and at scale (stats, inference, ML)  Scale, performance, availability  In-memory computing  Frequent full ownership, team   tech leadership  Critical thinker, constant learner  Clear, no-nonsense communicator  Passion for quality", 
+            "title": "Summary"
+        }, 
+        {
+            "location": "/history/", 
+            "text": "Employment History\n\n\nVisa Inc. \n \n2013 - present\n\n\nChief Architect\n\n\n\n\nDesigned near real-time transaction notifications and history services for Android Pay, Samsung Pay, Apple Pay, and others resulting in successful and timely delivery under tight timelines.\n\n\nIntegrated systems with Visa processing, other Visa systems, and large external partners like Google, Apple, Samsung, Microsoft, and the largest banks in a security-hardened environment.\n\n\nIncreased scale and improved reliability, performance, availability, and resilience of critical platform components while introducing several technologies and practices to the organization.\n\n\nEffectively worked with teams in 6 global locations and 10+ departments.\n\n\n\n\nIntellitrade \n \n2010 - 2013\n\n\nPartner and Main Developer\n\n\n\n\nEstablished and ran an independent equity and options trading operation with a number of partners.\n\n\nSingle handedly built a proprietary near-real time market data processor and real time trading decision system monitoring 500 instruments simultaneously, accomplishing ~100ms exchange trade-to-decision latency.\n\n\nBuilt, tested, and used quantitative models for option spreads risk and pricing using statistical inference, bootstrapping, linear and other models, as well as closed solutions.\n\n\nAll systems were used to successfully and sustainably trade with a high degree of risk control.\n\n\n\n\nFanSnap \n \n2008 - 2010\n\n\nearly phase startup in the event tickets space\n\n\nChief Architect\n\n\nMyTriggers, LLC \n \n2007 - 2008\n\n\nearly phase startup in the comparison shopping space\n\n\nVP Engineering\n\n\nBorland \n \n2006 - 2007\n\n\nDirector of Product Management\n\n\n\n\nSuccessfully absorbed the acquired Segue products and teams into Borland (alongside former CEO).\n\n\nManaged teams on several continents, and managed restructuring under tight budgets. Span of responsibility of 80+ people.\n\n\nEnvisioned, initiated, and supervised ground-breaking new technology for quantitative change management across the software lifecycle, with numerical assessment of quality and effort risks.\n\n\n\n\nPheedo, LLC \n \n2005 - 2006\n\n\nearly phase startup in the RSS space\n\n\nVP Engineering\n\n\nNexTag \n \n2002 - 2005\n\n\nLargest comparison shopping site and third largest in mortgage lead generation\n\n\nDirector of Engineering\n\n\n\n\nManaged up to ~20 people in 4 groups bringing NexTag from the 7th comparison shopping site to the world\u2019s largest such site.\n\n\nDirected the traffic applications (keyword advertising, banner advertising, SEO). The advertising management system as a whole managed over $50MM/year of advertising spend. One of the top 10 advertisers on the web. The system managed millions of keyword campaigns on all major search engines and other publishers with optimized and automated margin management.\n\n\nDirected the development of the mortgage and RFQ product from inception, reaching a run rate of over $12MM/year in the first year since development started, and became the 3rd largest mortgage lead generator on the web within two years from launch. \n\n\nDesigned and directed the development of a large-scale banner ad system with over 30MM impressions a day and driving over half the mortgage revenue. Near 100% US web consumer coverage. Very high availability for a system managing over 4 billion cookies at consistently low response times.\n\n\nTripled company SEO traffic within 6 months, reaching \n10% total traffic. Had direct revenue responsibility of about 15% of total company revenue. Grew SEO traffic over 10x over 1.5 years.\n\n\n\n\nPreviously\n\n\n7 years at Mercury Interactive (now part of HPE), 2 early phase startups, CRM consulting", 
+            "title": "Emplyment History"
+        }, 
+        {
+            "location": "/history/#employment-history", 
+            "text": "", 
+            "title": "Employment History"
+        }, 
+        {
+            "location": "/history/#visa-inc-2013-present", 
+            "text": "", 
+            "title": "Visa Inc. &nbsp;&nbsp;&nbsp;&nbsp; 2013 - present"
+        }, 
+        {
+            "location": "/history/#chief-architect", 
+            "text": "Designed near real-time transaction notifications and history services for Android Pay, Samsung Pay, Apple Pay, and others resulting in successful and timely delivery under tight timelines.  Integrated systems with Visa processing, other Visa systems, and large external partners like Google, Apple, Samsung, Microsoft, and the largest banks in a security-hardened environment.  Increased scale and improved reliability, performance, availability, and resilience of critical platform components while introducing several technologies and practices to the organization.  Effectively worked with teams in 6 global locations and 10+ departments.", 
+            "title": "Chief Architect"
+        }, 
+        {
+            "location": "/history/#intellitrade-2010-2013", 
+            "text": "", 
+            "title": "Intellitrade &nbsp;&nbsp;&nbsp;&nbsp; 2010 - 2013"
+        }, 
+        {
+            "location": "/history/#partner-and-main-developer", 
+            "text": "Established and ran an independent equity and options trading operation with a number of partners.  Single handedly built a proprietary near-real time market data processor and real time trading decision system monitoring 500 instruments simultaneously, accomplishing ~100ms exchange trade-to-decision latency.  Built, tested, and used quantitative models for option spreads risk and pricing using statistical inference, bootstrapping, linear and other models, as well as closed solutions.  All systems were used to successfully and sustainably trade with a high degree of risk control.", 
+            "title": "Partner and Main Developer"
+        }, 
+        {
+            "location": "/history/#fansnap-2008-2010", 
+            "text": "early phase startup in the event tickets space", 
+            "title": "FanSnap &nbsp;&nbsp;&nbsp;&nbsp; 2008 - 2010"
+        }, 
+        {
+            "location": "/history/#chief-architect_1", 
+            "text": "", 
+            "title": "Chief Architect"
+        }, 
+        {
+            "location": "/history/#mytriggers-llc-2007-2008", 
+            "text": "early phase startup in the comparison shopping space", 
+            "title": "MyTriggers, LLC &nbsp;&nbsp;&nbsp;&nbsp; 2007 - 2008"
+        }, 
+        {
+            "location": "/history/#vp-engineering", 
+            "text": "", 
+            "title": "VP Engineering"
+        }, 
+        {
+            "location": "/history/#borland-2006-2007", 
+            "text": "", 
+            "title": "Borland &nbsp;&nbsp;&nbsp;&nbsp; 2006 - 2007"
+        }, 
+        {
+            "location": "/history/#director-of-product-management", 
+            "text": "Successfully absorbed the acquired Segue products and teams into Borland (alongside former CEO).  Managed teams on several continents, and managed restructuring under tight budgets. Span of responsibility of 80+ people.  Envisioned, initiated, and supervised ground-breaking new technology for quantitative change management across the software lifecycle, with numerical assessment of quality and effort risks.", 
+            "title": "Director of Product Management"
+        }, 
+        {
+            "location": "/history/#pheedo-llc-2005-2006", 
+            "text": "early phase startup in the RSS space", 
+            "title": "Pheedo, LLC &nbsp;&nbsp;&nbsp;&nbsp; 2005 - 2006"
+        }, 
+        {
+            "location": "/history/#vp-engineering_1", 
+            "text": "", 
+            "title": "VP Engineering"
+        }, 
+        {
+            "location": "/history/#nextag-2002-2005", 
+            "text": "Largest comparison shopping site and third largest in mortgage lead generation", 
+            "title": "NexTag &nbsp;&nbsp;&nbsp;&nbsp; 2002 - 2005"
+        }, 
+        {
+            "location": "/history/#director-of-engineering", 
+            "text": "Managed up to ~20 people in 4 groups bringing NexTag from the 7th comparison shopping site to the world\u2019s largest such site.  Directed the traffic applications (keyword advertising, banner advertising, SEO). The advertising management system as a whole managed over $50MM/year of advertising spend. One of the top 10 advertisers on the web. The system managed millions of keyword campaigns on all major search engines and other publishers with optimized and automated margin management.  Directed the development of the mortgage and RFQ product from inception, reaching a run rate of over $12MM/year in the first year since development started, and became the 3rd largest mortgage lead generator on the web within two years from launch.   Designed and directed the development of a large-scale banner ad system with over 30MM impressions a day and driving over half the mortgage revenue. Near 100% US web consumer coverage. Very high availability for a system managing over 4 billion cookies at consistently low response times.  Tripled company SEO traffic within 6 months, reaching  10% total traffic. Had direct revenue responsibility of about 15% of total company revenue. Grew SEO traffic over 10x over 1.5 years.", 
+            "title": "Director of Engineering"
+        }, 
+        {
+            "location": "/history/#previously", 
+            "text": "7 years at Mercury Interactive (now part of HPE), 2 early phase startups, CRM consulting", 
+            "title": "Previously"
+        }, 
+        {
+            "location": "/education/", 
+            "text": "Tel-Aviv University, Israel\n\n\nBsc. Mathematics and Computer Science / Scientific Computing", 
+            "title": "Education"
+        }
+    ]
+}
