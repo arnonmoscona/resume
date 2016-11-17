@@ -1,9 +1,7 @@
 # Arnon Moscona
-San Carlos, CA
-
-650-996-5745
-
-arnon@moscona.com
+San Carlos, CA <br/>
+650-996-5745 <br/>
+[arnon@moscona.com](mailto:arnon@moscona.com)
 
 [linkedin.com/in/arnonmoscona](http://linkedin.com/in/arnonmoscona)
 
