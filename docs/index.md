@@ -4,7 +4,7 @@ San Carlos, CA
 
 arnon@moscona.com
 
-http://linkedin.com/in/arnonmoscona
+[linkedin.com/in/arnonmoscona](http://linkedin.com/in/arnonmoscona)
 
 * [Summary](summary.md)
 * [Employment History](history.md)
