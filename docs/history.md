@@ -9,6 +9,9 @@
 * Increased scale and improved reliability, performance, availability, and resilience of critical platform components while introducing several technologies and practices to the organization.
 * Effectively worked with teams in 6 global locations and 10+ departments.
 
+
+----
+
 ## Intellitrade &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2010 - 2013</span>
 
 ### Partner and Main Developer
@@ -18,17 +21,25 @@
 * Built, tested, and used quantitative models for option spreads risk and pricing using statistical inference, bootstrapping, linear and other models, as well as closed solutions.
 * All systems were used to successfully and sustainably trade with a high degree of risk control.
 
+
+----
+
 ## FanSnap &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2008 - 2010</span>
 
 <span style="color:gray;font-size:80%">early phase startup in the event tickets space</span>
 
 ### Chief Architect
 
+
+----
+
 ## MyTriggers, LLC &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2007 - 2008</span>
 
 <span style="color:gray;font-size:80%">early phase startup in the comparison shopping space</span>
 
 ### VP Engineering
+
+----
 
 ## Borland &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2006 - 2007</span>
 
@@ -38,12 +49,15 @@
 * Managed teams on several continents, and managed restructuring under tight budgets. Span of responsibility of 80+ people.
 * Envisioned, initiated, and supervised ground-breaking new technology for quantitative change management across the software lifecycle, with numerical assessment of quality and effort risks.
 
+----
+
 ## Pheedo, LLC &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2005 - 2006</span>
 
 <span style="color:gray;font-size:80%">early phase startup in the RSS space</span>
 
 ### VP Engineering
 
+----
 
 ## NexTag &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2002 - 2005</span>
 
@@ -57,6 +71,9 @@
 * Directed the development of the mortgage and RFQ product from inception, reaching a run rate of over $12MM/year in the first year since development started, and became the 3rd largest mortgage lead generator on the web within two years from launch. 
 * Designed and directed the development of a large-scale banner ad system with over 30MM impressions a day and driving over half the mortgage revenue. Near 100% US web consumer coverage. Very high availability for a system managing over 4 billion cookies at consistently low response times.
 * Tripled company SEO traffic within 6 months, reaching >10% total traffic. Had direct revenue responsibility of about 15% of total company revenue. Grew SEO traffic over 10x over 1.5 years.
+
+
+----
 
 ## Previously
 
