@@ -1,6 +1,8 @@
 # Employment History
 
-## Visa Inc. &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2013 - present</span>
+
+## Visa Inc. &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2013 - 2017</span>
+
 
 ### Chief Architect
 
