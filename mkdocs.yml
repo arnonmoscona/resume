@@ -5,6 +5,6 @@ theme: readthedocs
 pages:
   - "Contact" : "index.md"
   - "Summary" : "summary.md"
-  -  "Emplyment History" : "history.md"
+  - "Emplyment History" : "history.md"
   - "education.md"
 
