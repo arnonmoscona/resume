@@ -1,5 +1,17 @@
 # Employment History
 
+## Udemy &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">May 2017 - 2018</span>
+
+### Principal Engineer
+
+- Back end and front-end development for the Udemy discount engine for the largest online video course marketplace,and a very high growth environment
+- Worked on a pricing engine for dynamic offer price determination
+- Improved system reliability and performance, simplified and refactored existing designs
+- Drove initiatives to simplify and streamline internal user experience, which led to new direction byproduct
+- Highly agile development process, CI/CD
+- Stack: **Python, Django, Mysql**, REST, Redshift, S3, **Celery, Redis**, RabbitMQ, JS, ReactJS, React-Bootstrap, Mobx, data pipelines, Datadog, git 
+
+------
 
 ## Visa Inc. &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2013 - 2017</span>
 
@@ -9,18 +21,22 @@
 * Integrated systems with Visa processing, other Visa systems, and large external partners like Google, Apple, Samsung, Microsoft, and the largest banks in a security-hardened environment.
 * Increased scale and improved reliability, performance, availability, and resilience of critical platform components while introducing several technologies and practices to the organization.
 * Effectively worked with teams in 6 global locations and 10+ departments.
+* Enterprise Architecture
+* Stack: **Java, Spring, Oracle**, Mysql, Kafka, Cassandra, MQ, ZMQ, **JAXB, REST**, Jersey, ElasticSearch, git
 
 
 ----
 
-## Intellitrade &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">2010 - 2013</span>
+## A privately held equity and derivatives trading outfit <span style="float:right">2010 - 2013</span>
 
-### Partner and Main Developer
+### Main Developer
 
-* Established and ran an independent equity and options trading operation with a number of partners.
+* Equity and options trading operation with a number of collaborators.
 * Single handedly built a proprietary near-real time market data processor and real time trading decision system monitoring 500 instruments simultaneously, accomplishing ~100ms exchange trade-to-decision latency.
 * Built, tested, and used quantitative models for option spreads risk and pricing using statistical inference, bootstrapping, linear and other models, as well as closed solutions.
 * All systems were used to successfully and sustainably trade with a high degree of risk control.
+* Stack: **Java, Spring, Oracle**, Mysql, **Kafka**, Cassandra, MQ, ZMQ, **JAXB, REST**, Jersey, ElasticSearch,
+  git
 
 
 ----
@@ -31,6 +47,10 @@
 
 ### Chief Architect
 
+* Architect and developer in a development team of 8
+* Designed and developed backend data models and DB code
+* Designed and developed ETL processes for data feeds from multiple third party ticket brokers
+* Stack:  **Ruby, RoR, dynamic programming, SQL, MySQL**, Apache Solr, Couchdb, MapReduce, git, svn
 
 ----
 

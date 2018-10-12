@@ -1,10 +1,10 @@
-site_name: Arnon Moscona
-repo_url: https://github.com/arnonmoscona/resume
-site_author: Arnon Moscona
-theme: readthedocs
-pages:
-  - "Contact" : "index.md"
-  - "Summary" : "summary.md"
-  -  "Emplyment History" : "history.md"
+site_name : "Arnon Moscona"
+repo_url : "https://github.com/arnonmoscona/resume"
+site_author : "Arnon Moscona"
+theme : "readthedocs"
+pages :
+  - "index.md"
+  - "summary.md"
+  - "employment-history.md"
+  - "professional-services.md"
   - "education.md"
-
