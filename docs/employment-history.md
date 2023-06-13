@@ -1,5 +1,40 @@
 # Employment History
 
+## Syapse &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">May 2018 - June 2023</span>
+
+### Engineering Manager / Principal Engineer
+
+#### Knowledge management team
+
+Team lead, manager, and active member of the knowledge management group. 
+
+Developed and maintained a full end to end curated knowledge management system for medical terminologies and inference based on industry standards combined with in-house expert input (clinical informatics, oncologists, variant scientists, clinicians, pharmacists, ontologists, etc.). 
+
+Applied knowledge models to raw patient medical data
+
+* Normalized raw hospital data from multiple hospitals, sequencing labs, clinical labs, cancer registries (NAACCR), data feeds (EDW, HL7, other sources). 
+* Applied inference algorithms to enrich the raw data and prepare it for analysis at scale - millions of patients over many years of data from diverse sources.
+* Developed and maintained innovative pipeline and storage techniques for processing and normalizing data at scale. Developed operational, QA, monitoring, and expert feedback processes and automation to ensure the highest possible, measurable and inspectable data quality. 
+* Created a continuous improvement process for data curation. 
+* Created self-service web UI facilities for clinical informatics experts to manage ontologies, validate them, create APIs on top of ontologies etc. 
+* Created highly optimized APIs to query the knowledge based and to perform specific inference scenarios.
+
+Led my team in key areas for areas like entity resolution for patient identity adjudication across multiple sources. Determining date of death across clinical and non clinical sources with 3rd party integration under strict HIPPA rules - achieving an industry recognized highest level of accuracy for analytics such as survival studies, Kaplan-Meier curves etc.
+
+The team and I also developed a highly scaleable and cost effective data processing, normalization, and projection system for creating flexible and adaptive end to end analytical pipelines from raw data through normalization and inference, through analytics through final product.
+
+Key technologies in use: 
+
+* general: Python, AWS, RDS, Postgresql, sqlite, Duckdb, S3, Docker, Kubernetes, Athena
+* knowledge system: Allegrograph, RDF, SPARQL, Protege, SQL, pydantic, FastAPI, Redis, HTML, Jinja2, HTMX, Bootstrap, Docker, Kubernetes
+* data processing system: airflow, Spark, Python multiprocessing, pyarrow, Parquet, Docker
+
+Key health care standards and practices
+
+* UMLS, RxNorm, NDC, OncoKB, Oncotree, NAACCR, SEER, ICD-10-CM, ICD-9-CM, ICD-O-3, ,HL7, FHIR, OMOP
+
+![github activity 2023](github-history-2023.png)
+
 ## Udemy &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">May 2017 - 2018</span>
 
 ### Principal Engineer
