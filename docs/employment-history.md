@@ -35,6 +35,8 @@ Key health care standards and practices
 
 ![github activity 2023](github-history-2023.png)
 
+------
+
 ## Udemy &nbsp;&nbsp;&nbsp;&nbsp; <span style="float:right">May 2017 - 2018</span>
 
 ### Principal Engineer
