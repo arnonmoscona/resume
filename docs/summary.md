@@ -21,5 +21,5 @@ Extensive hands-on software engineering experience, roles from leading individua
 * **Python**, Java, Kotlin, 
   * formerly JS, Groovy, Ruby, C#, C, C++, R, Octave, Shell, perl, PHP
 * FastAPI, HTMX, Django, Celery, 
-* **RDF, SPARQL, SQL, NoSQL DBs, messaging, async**, multiprocessing, Spark, web applications, **REST APIs**, S3, Parquet, Redis 
+* **RDF, SPARQL, SQL, NoSQL DBs, messaging, async**, multiprocessing, Spark, web applications, **REST APIs**, S3, Parquet, Redis
 
