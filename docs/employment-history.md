@@ -27,7 +27,7 @@ Key technologies in use:
 
 * general: Python, AWS, RDS, Postgresql, sqlite, Duckdb, S3, Docker, Kubernetes, Athena
 * knowledge system: Allegrograph, RDF, SPARQL, Protege, SQL, pydantic, FastAPI, Redis, HTML, Jinja2, HTMX, Bootstrap, Docker, Kubernetes
-* data processing system: airflow, Spark, Python multiprocessing, pyarrow, Parquet, Docker
+* data processing system: airflow, Spark, Python multiprocessing, pyarrow, Parquet, Docker, Kubernetes
 
 Key health care standards and practices
 
