@@ -23,3 +23,5 @@ Extensive hands-on software engineering experience, roles from leading individua
 * FastAPI, HTMX, Django, Celery, 
 * **RDF, SPARQL, SQL, NoSQL DBs, messaging, async**, multiprocessing, Spark, web applications, **REST APIs**, S3, Parquet, Redis
 
+[Employment History](employment-history.md)
+
