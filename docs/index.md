@@ -13,3 +13,5 @@ GitHub: [github.com/arnonmoscona](https://github.com/arnonmoscona)
 * [Skills](skills.md)
 * [Professional Services](professional-services.md)
 * [Education](education.md)
+
+#### [download a PDF version](Arnon-Moscona-2023.pdf)
