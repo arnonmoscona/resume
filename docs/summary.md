@@ -4,5 +4,4 @@ Highly accomplished and experienced software engineer and hands-on leader of hig
 
 **Currently interested primarily in knowledge management and integration in the health care space** in service of experts in the clinical, scientific, and informatics fields and promoting the use of curated knowledge to advance patient care and outcomes.
 
-[Employment History](employment-history.md)
-[Skills](skills.md)
+[Employment History](employment-history.md)  |  [Skills](skills.md)
