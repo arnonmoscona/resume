@@ -85,4 +85,4 @@ Key health care standards and practices
 
 A long history in startups in the Silicone Valley in engineering positions ranging from IC, to director, to VP of engineering, to owner and operator. Two major exists. Span of control from 4 to 80 people.
 
-[Older Employment History](older-history.md)
+[Skills](skills.md)  |  [Older Employment History](older-history.md)
