@@ -50,6 +50,7 @@ Key health care standards and practices
 
 * UMLS, RxNorm, NDC, OncoKB, Oncotree, NAACCR, SEER, ICD-10-CM, ICD-9-CM, ICD-O-3, ,HL7, FHIR, OMOP
 
+#### Leader, mentor, hands-on developer: delivering every day
 
 ![github activity 2023](github-history-2023.png)
 
