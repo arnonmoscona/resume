@@ -18,7 +18,7 @@ Clinical, genomic testing, cancer registry, and medication **data normalization*
 * Increased **data processing throughput by 5x** - All of Syapse data can be **refreshed in a few hours** for millions of patients from tens of sources
 * This is at the foundation of enabling retrospective studies, studies related to clinical trials, finding patients for clinical trials, exploring patient populations, creating patient cohorts, etc.
 
-**Knowledge management:** Cancer is a complex domain, and each cancer has its peculiar aspects. No single expert knows everything. Managing, coordinating, reviewing, and verifying knowledge in a highly inter-disciplinary environment is challenging.
+**Knowledge management (KMS):** Cancer is a complex domain, and each cancer has its peculiar aspects. No single expert knows everything. Managing, coordinating, reviewing, and verifying knowledge in a highly inter-disciplinary environment is challenging.
 
 * Built an RDF ontology based knowledge management system serving the clinical informatics group, subject matter experts, and others.
 * Automated the processing and updates of industry standard terminologies, integrated with Syapse specific annotations, additions, overrides, synonyms etc. Also adaptations to the cancer domain when the standard terminologies were insufficiently expressive for cancer.
@@ -38,7 +38,7 @@ Clinical, genomic testing, cancer registry, and medication **data normalization*
 * Developed a highly accurate, yet HIPPA compliant **solution for highly accurate date of death determination** by using multiple sources of variable reliability, including hospitals and obituary data
 * As part and parcel of this, also developed a sophisticated and innovative and automated **entity resolution framework for reconciling patient identity** across multiple data sources with inconsistent identification with capabilities **exceeding what can be found in commercially available EMPI systems**
 
-The team and I also developed a highly scaleable and cost effective data processing, normalization, and projection system for creating flexible and adaptive end to end analytical pipelines from raw data through normalization and inference, through analytics through final product.
+**Data pipeline innovation:** The team and I also developed a highly scaleable and cost effective data processing, normalization, and projection system for creating flexible and adaptive end to end analytical pipelines from raw data through normalization and inference, through analytics through final product. This pipeline leverages high partitioning, S3/parquet based storage, integration with the KMS APIs, local and Redis based caching, real time monitoring, execution framework independence, lazy evaluation, schema free.
 
 Key technologies in use: 
 
